@@ -85,7 +85,7 @@ h1 {
 
 #baby-web {
     border-left: 7px solid;
-    border-image: linear-gradient(tomato, salmon);
+    border-image: linear-gradient(tomato, rgb(250, 207, 114));
     border-image-slice: 1;
 }
 
